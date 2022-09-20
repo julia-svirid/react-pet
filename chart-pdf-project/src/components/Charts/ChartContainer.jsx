@@ -1,4 +1,3 @@
-import React from 'react';
 import styled from "styled-components";
 
 const ChartContainer = styled.div`
@@ -6,6 +5,5 @@ const ChartContainer = styled.div`
     width: 30%;
     padding: 25px;
 `
-
 
 export default ChartContainer;
